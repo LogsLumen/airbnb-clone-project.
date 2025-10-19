@@ -111,3 +111,64 @@ Role	Responsibilities	Contribution to Project Success
  Define project requirements, prioritize features, and communicate stakeholder needs. Ensure that the project aligns with user expectations.	Keep the team focused on high-value features that meet business goals.
 #### Scrum Master	
  Facilitate agile ceremonies (sprint planning, stand-ups, retrospectives), remove blockers, and maintain team productivity.	Promote agile collaboration and ensure continuous improvement throughout development.
+
+
+## UI Component Patterns
+### Objective
+
+Define and describe the key reusable UI components that will be developed for the AirBnB Clone project. These components will help maintain design consistency and improve development efficiency.
+
+### Planned Components
+#### Navbar
+
+#### Description:
+The Navbar will serve as the main navigation bar across the application.
+
+#### Features:
+
+Displays the company logo and navigation links.
+
+Includes a search bar for quick property lookup.
+
+Provides user navigation options (login, profile, bookings, etc.).
+
+Adapts responsively for mobile and tablet view with a collapsible menu.
+
+#### Purpose:
+Ensures users can easily navigate between major sections and access their accounts from any page.
+
+#### Property Card
+
+#### Description:
+The Property Card will be a reusable component that displays brief details about each property.
+
+#### Features:
+
+Displays property image, name, location, price, and rating.
+
+Includes a favorite or “like” button.
+
+Optimized for grid display and responsive design.
+
+Links to the detailed property page when clicked.
+
+#### Purpose:
+Provides users with a clear and attractive overview of available listings, improving the browsing experience.
+
+#### Footer
+
+#### Description:
+The Footer will appear at the bottom of all pages, providing essential links and information.
+
+#### Features:
+
+Contains quick links to important pages (About, Contact, Help, Privacy Policy).
+
+Displays company information and social media icons.
+
+Includes copyright and branding information.
+
+Maintains consistent styling across all pages.
+
+#### Purpose:
+Enhances usability and professionalism by offering users easy access to additional resources and contact information.
