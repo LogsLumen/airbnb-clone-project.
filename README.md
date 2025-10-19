@@ -36,3 +36,32 @@ Database: MongoDB / MySQL
 Design Tools: Figma (for UI/UX design)
 
 Version Control: Git & GitHub
+
+
+
+UI/UX Design Planning
+
+
+Design Goals
+
+Create an intuitive booking flow that makes navigation seamless for users.
+
+Maintain visual consistency across all pages using defined color schemes and typography.
+
+Ensure fast loading times for a smooth user experience.
+
+Prioritize mobile responsiveness to provide accessibility on all devices.
+
+Focus on accessibility standards (WCAG) for inclusive design.
+
+Key Features
+
+Property Search and Filtering: Users can search by location, price, type, or rating.
+
+Detailed Property Viewing: Users can view high-quality images, property details, and amenities.
+
+Secure Checkout Process: Simplified and safe payment flow for booking confirmation.
+
+User Authentication: Enables users to sign up, log in, and manage bookings securely.
+
+Responsive Layout: Adaptive design optimized for mobile, tablet, and desktop screens.
