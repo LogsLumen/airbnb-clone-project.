@@ -95,11 +95,19 @@ Secondary Text	Circular, Book (400)	14px	Supporting text and labels.
 Define and document each team member’s role and responsibilities to ensure effective collaboration, accountability, and a smooth development workflow.
 
 Role	Responsibilities	Contribution to Project Success
-#### Project Manager	Oversees the entire project lifecycle, sets timelines, monitors progress, and coordinates between team members.	Ensures that the project stays on schedule, within scope, and meets all quality standards.
-#### Frontend Developers	Build and maintain the user interface using HTML, CSS, and JavaScript (React or similar). Implement responsive design and integrate frontend components with backend APIs.	Deliver a smooth, user-friendly experience and visually appealing interface.
-#### Backend Developers	Develop and manage the server-side logic, APIs, and database integration. Ensure secure data handling and efficient system performance.	Provide the core functionality that powers the booking system and supports frontend operations.
-#### Designers	Create UI/UX mockups using Figma, define color schemes, typography, and component layouts. Ensure design consistency and usability across the platform.	Enhance the project’s visual identity and ensure a seamless user experience.
-#### QA/Testers	Write and execute test cases, perform manual and automated testing, identify bugs, and ensure software quality before deployment.	Guarantee a stable, reliable, and bug-free application.
-#### DevOps Engineers	Set up and maintain CI/CD pipelines, manage servers, and handle deployment processes. Monitor application performance post-deployment.	Enable smooth, automated, and scalable deployment of the project.
-#### Product Owner	Define project requirements, prioritize features, and communicate stakeholder needs. Ensure that the project aligns with user expectations.	Keep the team focused on high-value features that meet business goals.
-#### Scrum Master	Facilitate agile ceremonies (sprint planning, stand-ups, retrospectives), remove blockers, and maintain team productivity.	Promote agile collaboration and ensure continuous improvement throughout development.
+#### Project Manager	
+ Oversees the entire project lifecycle, sets timelines, monitors progress, and coordinates between team members.	Ensures that the project stays on schedule, within scope, and meets all quality standards.
+#### Frontend Developers	
+ Build and maintain the user interface using HTML, CSS, and JavaScript (React or similar). Implement responsive design and integrate frontend components with backend APIs.	Deliver a smooth, user-friendly experience and visually appealing interface.
+#### Backend Developers	
+ Develop and manage the server-side logic, APIs, and database integration. Ensure secure data handling and efficient system performance.	Provide the core functionality that powers the booking system and supports frontend operations.
+#### Designers	
+ Create UI/UX mockups using Figma, define color schemes, typography, and component layouts. Ensure design consistency and usability across the platform.	Enhance the project’s visual identity and ensure a seamless user experience.
+#### QA/Testers	
+ Write and execute test cases, perform manual and automated testing, identify bugs, and ensure software quality before deployment.	Guarantee a stable, reliable, and bug-free application.
+#### DevOps Engineers	
+ Set up and maintain CI/CD pipelines, manage servers, and handle deployment processes. Monitor application performance post-deployment.	Enable smooth, automated, and scalable deployment of the project.
+#### Product Owner	
+ Define project requirements, prioritize features, and communicate stakeholder needs. Ensure that the project aligns with user expectations.	Keep the team focused on high-value features that meet business goals.
+#### Scrum Master	
+ Facilitate agile ceremonies (sprint planning, stand-ups, retrospectives), remove blockers, and maintain team productivity.	Promote agile collaboration and ensure continuous improvement throughout development.
